@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa039581-bcd9-4306-aa83-df09f57ab9e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[A] Сортировка вагонов.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[A] Сортировка вагонов.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[B] Вычислительная ихтиология.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[B] Вычислительная ихтиология.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[C] Множества.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[C] Множества.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[D] Приготовление милкшейков.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[D] Приготовление милкшейков.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[F] Гемоглобин.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[F] Гемоглобин.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[G] Ладьи-защитники.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[G] Ладьи-защитники.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[H] Гоблины и очереди.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[H] Гоблины и очереди.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[I] Тетрис.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[I] Тетрис.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[J] Менеджер памяти.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[J] Менеджер памяти.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[B] Квадратный корень и квадратный квадрат.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[B] Квадратный корень и квадратный квадрат.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[D] Последний рубеж.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[D] Последний рубеж.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[G] Очень Легкая Задача.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[G] Очень Легкая Задача.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[H] Провода.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[H] Провода.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[I] Космическое поселение.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[I] Космическое поселение.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[O] Дипломы.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[O] Дипломы.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2nrAONjpih4PDR6Q9sB6NfMG9nM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[5] DFS 1/[L] Цикл в графе.cpp",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.[L] Цикл в графе.cpp">
+    <configuration name="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" CONFIG_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[B] Компоненты связности.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[B] Компоненты связности.cpp" CONFIG_NAME="[B] Компоненты связности.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[B] Компоненты связности.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[C] Долой списывание!.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[C] Долой списывание!.cpp" CONFIG_NAME="[C] Долой списывание!.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[C] Долой списывание!.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[D] Отбой.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[D] Отбой.cpp" CONFIG_NAME="[D] Отбой.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[D] Отбой.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[E] Степени вершин по списку ребер.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[E] Степени вершин по списку ребер.cpp" CONFIG_NAME="[E] Степени вершин по списку ребер.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[E] Степени вершин по списку ребер.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[F] Обход графа.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[F] Обход графа.cpp" CONFIG_NAME="[F] Обход графа.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[F] Обход графа.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[G] Дерево.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[G] Дерево.cpp" CONFIG_NAME="[G] Дерево.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[G] Дерево.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[H] Есть ли цикл.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[H] Есть ли цикл.cpp" CONFIG_NAME="[H] Есть ли цикл.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[H] Есть ли цикл.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[I] Свинки-копилки.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[I] Свинки-копилки.cpp" CONFIG_NAME="[I] Свинки-копилки.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[I] Свинки-копилки.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[J] Бусинки.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[J] Бусинки.cpp" CONFIG_NAME="[J] Бусинки.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[J] Бусинки.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[K] Авиаперелёты.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[K] Авиаперелёты.cpp" CONFIG_NAME="[K] Авиаперелёты.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[K] Авиаперелёты.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[L] Цикл в графе.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[L] Цикл в графе.cpp" CONFIG_NAME="[L] Цикл в графе.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[L] Цикл в графе.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" />
+      <item itemvalue="C/C++ File.[B] Компоненты связности.cpp" />
+      <item itemvalue="C/C++ File.[C] Долой списывание!.cpp" />
+      <item itemvalue="C/C++ File.[D] Отбой.cpp" />
+      <item itemvalue="C/C++ File.[E] Степени вершин по списку ребер.cpp" />
+      <item itemvalue="C/C++ File.[F] Обход графа.cpp" />
+      <item itemvalue="C/C++ File.[G] Дерево.cpp" />
+      <item itemvalue="C/C++ File.[H] Есть ли цикл.cpp" />
+      <item itemvalue="C/C++ File.[I] Свинки-копилки.cpp" />
+      <item itemvalue="C/C++ File.[J] Бусинки.cpp" />
+      <item itemvalue="C/C++ File.[K] Авиаперелёты.cpp" />
+      <item itemvalue="C/C++ File.[L] Цикл в графе.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa039581-bcd9-4306-aa83-df09f57ab9e4" name="Changes" comment="" />
+      <created>1729720787205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729720787205</updated>
+      <workItem from="1729720788297" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
