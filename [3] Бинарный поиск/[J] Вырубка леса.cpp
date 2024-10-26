@@ -5,7 +5,19 @@ using namespace std;
 int main() {
     long long a, k, b, m, x;
     cin >> a >> k >> b >> m >> x;
-    long long l = 1, r = 1'000'000'000, mid;
+    long long l = 1, r = 2 * x, mid;
+    if (k != 1 && a >= x) {
+        cout << 1;
+        return 0;
+    }
+    if (m != 1 && b >= x) {
+        cout << 1;
+        return 0;
+    }
+    if (k != 1 && m != 1 && a + b >= x) {
+        cout << 1;
+        return 0;
+    }
     while (l + 1 < r) {
         mid = (l + r) / 2;
         if (mid * a - (mid / k) * a + (mid * b) - mid / m * b >= x) {

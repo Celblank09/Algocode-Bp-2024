@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa039581-bcd9-4306-aa83-df09f57ab9e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[A] Сортировка вагонов.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[A] Сортировка вагонов.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[B] Вычислительная ихтиология.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[B] Вычислительная ихтиология.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[C] Множества.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[C] Множества.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[D] Приготовление милкшейков.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[D] Приготовление милкшейков.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[F] Гемоглобин.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[F] Гемоглобин.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[G] Ладьи-защитники.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[G] Ладьи-защитники.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[H] Гоблины и очереди.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[H] Гоблины и очереди.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[I] Тетрис.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[I] Тетрис.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[J] Менеджер памяти.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[J] Менеджер памяти.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[B] Квадратный корень и квадратный квадрат.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[B] Квадратный корень и квадратный квадрат.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[D] Последний рубеж.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[D] Последний рубеж.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[G] Очень Легкая Задача.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[G] Очень Легкая Задача.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[H] Провода.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[H] Провода.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[I] Космическое поселение.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[I] Космическое поселение.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[A] Коровы - в стойла.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[A] Коровы - в стойла.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[O] Дипломы.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[O] Дипломы.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[L] Одинокое число.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[L] Одинокое число.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[D] Объединение последовательностей.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[D] Объединение последовательностей.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[E] Степени вершин по списку ребер.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[E] Степени вершин по списку ребер.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2nrAONjpih4PDR6Q9sB6NfMG9nM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -45,20 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[5] DFS 1/[L] Цикл в графе.cpp",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.[A] От списка ребер к матрице смежности, ориентированный вариант.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[5] DFS 1/[L] Цикл в графе.cpp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="C/C++ File.[L] Цикл в графе.cpp">
+}</component>
+  <component name="RunManager" selected="C/C++ File.[E] Степени вершин по списку ребер.cpp">
     <configuration name="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" CONFIG_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp">
       <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" />
       <method v="2">
@@ -155,6 +153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1729720787205</updated>
       <workItem from="1729720788297" duration="246000" />
+      <workItem from="1729805151913" duration="308000" />
+      <workItem from="1729878525122" duration="8000" />
     </task>
     <servers />
   </component>
