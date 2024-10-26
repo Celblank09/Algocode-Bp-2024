@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="aa039581-bcd9-4306-aa83-df09f57ab9e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[2] С++/[E] Трамвай.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[A] Коровы - в стойла.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[A] Коровы - в стойла.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[L] Одинокое число.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[L] Одинокое число.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[D] Объединение последовательностей.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[D] Объединение последовательностей.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[E] Степени вершин по списку ребер.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[E] Степени вершин по списку ребер.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[B] Компоненты связности.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[B] Компоненты связности.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[C] Долой списывание!.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[C] Долой списывание!.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[F] Обход графа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[F] Обход графа.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[G] Дерево.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[G] Дерево.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[H] Есть ли цикл.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[H] Есть ли цикл.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +42,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.[A] От списка ребер к матрице смежности, ориентированный вариант.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[5] DFS 1/[L] Цикл в графе.cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.[A] От списка ребер к матрице смежности, ориентированный вариант.cpp.executor": "Run",
+    "C/C++ File.[B] Компоненты связности.cpp.executor": "Run",
+    "C/C++ File.[C] Долой списывание!.cpp.executor": "Run",
+    "C/C++ File.[F] Обход графа.cpp.executor": "Run",
+    "C/C++ File.[G] Дерево.cpp.executor": "Run",
+    "C/C++ File.[H] Есть ли цикл.cpp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[5] DFS 1/[L] Цикл в графе.cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.[E] Степени вершин по списку ребер.cpp">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.[C] Долой списывание!.cpp">
     <configuration name="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" CONFIG_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp">
       <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" />
       <method v="2">
@@ -155,6 +164,7 @@
       <workItem from="1729720788297" duration="246000" />
       <workItem from="1729805151913" duration="308000" />
       <workItem from="1729878525122" duration="8000" />
+      <workItem from="1729973787237" duration="2185000" />
     </task>
     <servers />
   </component>
