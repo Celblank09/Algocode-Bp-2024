@@ -13,12 +13,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa039581-bcd9-4306-aa83-df09f57ab9e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[E] Минимизируем максимум.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[E] Минимизируем максимум.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[3] Бинарный поиск/[J] Вырубка леса.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[A] Егор и массив.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[A] Егор и массив.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[B] Компоненты связности.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[B] Компоненты связности.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[C] Долой списывание!.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[C] Долой списывание!.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[F] Обход графа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[F] Обход графа.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[G] Дерево.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[G] Дерево.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[H] Есть ли цикл.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[H] Есть ли цикл.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[D] Отбой.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[D] Отбой.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[I] Свинки-копилки.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[I] Свинки-копилки.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[J] Бусинки.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[J] Бусинки.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[K] Авиаперелёты.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[K] Авиаперелёты.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[L] Цикл в графе.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[L] Цикл в графе.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +51,13 @@
     "C/C++ File.[A] От списка ребер к матрице смежности, ориентированный вариант.cpp.executor": "Run",
     "C/C++ File.[B] Компоненты связности.cpp.executor": "Run",
     "C/C++ File.[C] Долой списывание!.cpp.executor": "Run",
+    "C/C++ File.[D] Отбой.cpp.executor": "Run",
     "C/C++ File.[F] Обход графа.cpp.executor": "Run",
     "C/C++ File.[G] Дерево.cpp.executor": "Run",
     "C/C++ File.[H] Есть ли цикл.cpp.executor": "Run",
+    "C/C++ File.[J] Бусинки.cpp (1).executor": "Profiler",
+    "C/C++ File.[J] Бусинки.cpp.executor": "Run",
+    "C/C++ File.[K] Авиаперелёты.cpp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -65,7 +73,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.[C] Долой списывание!.cpp">
+  <component name="RunManager" selected="C/C++ File.[K] Авиаперелёты.cpp">
     <configuration name="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[5] DFS 1" TARGET_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" CONFIG_NAME="[A] От списка ребер к матрице смежности, ориентированный вариант.cpp">
       <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[5] DFS 1\[A] От списка ребер к матрице смежности, ориентированный вариант.cpp" />
       <method v="2">
@@ -165,6 +173,9 @@
       <workItem from="1729805151913" duration="308000" />
       <workItem from="1729878525122" duration="8000" />
       <workItem from="1729973787237" duration="2185000" />
+      <workItem from="1730026832386" duration="342000" />
+      <workItem from="1730040467331" duration="1270000" />
+      <workItem from="1730104228842" duration="2508000" />
     </task>
     <servers />
   </component>

@@ -20,7 +20,7 @@ int main() {
     }
     while (l + 1 < r) {
         mid = (l + r) / 2;
-        if (mid * a - (mid / k) * a + (mid * b) - mid / m * b >= x) {
+        if ((mid - mid / k) * a >= x || (mid - mid / m) * b >= x || (mid - mid / k) * a + (mid - mid / m) * b >= x) {
             r = mid;
         } else {
             l = mid;
