@@ -48,19 +48,19 @@ int main() {
             color++;
         }
     }
-    vector <vector <long long>> edges(color, vector <long long> ());
+    vector <vector <bool>> edges(color, vector <bool> (color, false));
     for (int v = 0; v < n; ++v) {
         for (int u : G[v]) {
             if (component[v] != component[u]) {
-                edges[component[v]].push_back(component[u]);
+                edges[component[v]][component[u]] = true;
             }
         }
     }
-    long long res = 0;
-    for (vector <long long> i : edges) {
-        if (i.empty()) {
-            res++;
+    int res = 0;
+    for (vector <bool> i : edges) {
+        for (bool j : i) {
+            res += j;
         }
     }
-    cout << res - 1;
+    cout << res;
 }
