@@ -13,12 +13,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e8016c-165e-4b0f-99bd-bb1cb616bde2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../[1] Сортировки/[G] Инверсии.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[1] Сортировки/[G] Инверсии.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[E] Стильная одежда (2).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[4] Линейные алгоритмы/[E] Стильная одежда (2).cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[5] DFS 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[5] DFS 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[5] DFS 1/[K] Авиаперелёты.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[5] DFS 1/[K] Авиаперелёты.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[5] DFS 1/[L] Цикл в графе.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[5] DFS 1/[L] Цикл в графе.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[6] DFS 2/[K] Мосты.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[6] DFS 2/[K] Мосты.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[A] Остовное дерево.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[A] Остовное дерево.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[B] День Объединения.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[B] День Объединения.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[C] Уничтожение массива.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[C] Уничтожение массива.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[D] Расстояние X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[D] Расстояние X.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[E] Дороги.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[E] Дороги.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[F] Разрезание графа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[F] Разрезание графа.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[G] Плотное остовное дерево.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[G] Плотное остовное дерево.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[K] Сделай связным.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[K] Сделай связным.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[L] Нефтяное дело.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[L] Нефтяное дело.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[A] Путь в графе.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[A] Путь в графе.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[B] Кратчайший и быстрый путь между вершинами.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[B] Кратчайший и быстрый путь между вершинами.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[C] Пифагоров экспресс (для C++).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[C] Пифагоров экспресс (для C++).cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[D] Флойд.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[D] Флойд.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[E] Один голодный конь.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[E] Один голодный конь.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[F] Числа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[F] Числа.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[I] Найти короткий путь.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[I] Найти короткий путь.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[J] Полнейший Флойд.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[J] Полнейший Флойд.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[K] Заправки.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[K] Заправки.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2pDu0whNX5Ffg9sEO7YaPe2jtTB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,6 +57,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.[A] Путь в графе.cpp.executor": "Run",
+    "C/C++ File.[B] Кратчайший и быстрый путь между вершинами.cpp.executor": "Run",
+    "C/C++ File.[C] Пифагоров экспресс (для C++).cpp.executor": "Run",
+    "C/C++ File.[D] Флойд.cpp.executor": "Run",
+    "C/C++ File.[E] Один голодный конь.cpp.executor": "Run",
+    "C/C++ File.[F] Числа.cpp.executor": "Run",
+    "C/C++ File.[I] Найти короткий путь.cpp.executor": "Run",
+    "C/C++ File.[J] Полнейший Флойд.cpp.executor": "Run",
+    "C/C++ File.[K] Заправки.cpp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -59,7 +81,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.[P] Транспортировка.cpp">
+  <component name="RunManager" selected="C/C++ File.[I] Найти короткий путь.cpp">
     <configuration name="[A] Путь в графе.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[9] Кратчайшие пути" TARGET_NAME="[A] Путь в графе.cpp" CONFIG_NAME="[A] Путь в графе.cpp">
       <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[9] Кратчайшие пути\[A] Путь в графе.cpp" />
       <method v="2">
@@ -184,6 +206,14 @@
       <option name="presentableId" value="Default" />
       <updated>1732312747434</updated>
       <workItem from="1732312748606" duration="370000" />
+      <workItem from="1733670615379" duration="1382000" />
+      <workItem from="1733731506019" duration="2885000" />
+      <workItem from="1733835814031" duration="6118000" />
+      <workItem from="1734262214368" duration="6797000" />
+      <workItem from="1734443396631" duration="746000" />
+      <workItem from="1734620228648" duration="852000" />
+      <workItem from="1734626788274" duration="4299000" />
+      <workItem from="1734639196749" duration="10988000" />
     </task>
     <servers />
   </component>
