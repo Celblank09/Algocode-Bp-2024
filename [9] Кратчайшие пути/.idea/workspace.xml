@@ -13,25 +13,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e8016c-165e-4b0f-99bd-bb1cb616bde2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[A] Остовное дерево.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[A] Остовное дерево.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[B] День Объединения.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[B] День Объединения.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[C] Уничтожение массива.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[C] Уничтожение массива.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[D] Расстояние X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[D] Расстояние X.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[E] Дороги.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[E] Дороги.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[F] Разрезание графа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[F] Разрезание графа.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[G] Плотное остовное дерево.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[G] Плотное остовное дерево.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[K] Сделай связным.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[K] Сделай связным.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[8] СНМ и миностовы/[L] Нефтяное дело.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[8] СНМ и миностовы/[L] Нефтяное дело.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[A] Путь в графе.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[A] Путь в графе.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[B] Кратчайший и быстрый путь между вершинами.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[B] Кратчайший и быстрый путь между вершинами.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[C] Пифагоров экспресс (для C++).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[C] Пифагоров экспресс (для C++).cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[D] Флойд.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[D] Флойд.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[E] Один голодный конь.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[E] Один голодный конь.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[F] Числа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[F] Числа.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[I] Найти короткий путь.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[I] Найти короткий путь.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[J] Полнейший Флойд.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[J] Полнейший Флойд.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[K] Заправки.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/[K] Заправки.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Рандомные туры/1/[B] Тайная комната.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Рандомные туры/1/[B] Тайная комната.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,32 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.[A] Путь в графе.cpp.executor": "Run",
-    "C/C++ File.[B] Кратчайший и быстрый путь между вершинами.cpp.executor": "Run",
-    "C/C++ File.[C] Пифагоров экспресс (для C++).cpp.executor": "Run",
-    "C/C++ File.[D] Флойд.cpp.executor": "Run",
-    "C/C++ File.[E] Один голодный конь.cpp.executor": "Run",
-    "C/C++ File.[F] Числа.cpp.executor": "Run",
-    "C/C++ File.[I] Найти короткий путь.cpp.executor": "Run",
-    "C/C++ File.[J] Полнейший Флойд.cpp.executor": "Run",
-    "C/C++ File.[K] Заправки.cpp.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[9] Кратчайшие пути/[P] Транспортировка.cpp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.[A] Путь в графе.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[B] Кратчайший и быстрый путь между вершинами.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[C] Пифагоров экспресс (для C++).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[D] Флойд.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[E] Один голодный конь.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[F] Числа.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[I] Найти короткий путь.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[J] Полнейший Флойд.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.[K] Заправки.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[9] Кратчайшие пути/[P] Транспортировка.cpp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ File.[I] Найти короткий путь.cpp">
     <configuration name="[A] Путь в графе.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[9] Кратчайшие пути" TARGET_NAME="[A] Путь в графе.cpp" CONFIG_NAME="[A] Путь в графе.cpp">
       <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[9] Кратчайшие пути\[A] Путь в графе.cpp" />
@@ -214,6 +206,7 @@
       <workItem from="1734620228648" duration="852000" />
       <workItem from="1734626788274" duration="4299000" />
       <workItem from="1734639196749" duration="10988000" />
+      <workItem from="1741386668138" duration="28000" />
     </task>
     <servers />
   </component>

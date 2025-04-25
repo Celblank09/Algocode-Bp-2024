@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c92b1e2-8d41-4f6c-b07b-9a27c1bf71c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2tna0FSH0htltEUJMxjfGGhITKo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[20] Корневая декомпозиция/[I] Нестабильность сети.cpp",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.[I] Нестабильность сети.cpp">
+    <configuration name="[A] Различные числа.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[A] Различные числа.cpp" CONFIG_NAME="[A] Различные числа.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[A] Различные числа.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[B] Лунки.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[B] Лунки.cpp" CONFIG_NAME="[B] Лунки.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[B] Лунки.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[C] Сычи и ACM.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[C] Сычи и ACM.cpp" CONFIG_NAME="[C] Сычи и ACM.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[C] Сычи и ACM.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[D] Варенье.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[D] Варенье.cpp" CONFIG_NAME="[D] Варенье.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[D] Варенье.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[F] Перестановка и запросы.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[F] Перестановка и запросы.cpp" CONFIG_NAME="[F] Перестановка и запросы.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[F] Перестановка и запросы.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[G] Мощные юнги.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[G] Мощные юнги.cpp" CONFIG_NAME="[G] Мощные юнги.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[G] Мощные юнги.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[H] MEX на пути.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[H] MEX на пути.cpp" CONFIG_NAME="[H] MEX на пути.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[H] MEX на пути.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[I] Нестабильность сети.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[20] Корневая декомпозиция" TARGET_NAME="[I] Нестабильность сети.cpp" CONFIG_NAME="[I] Нестабильность сети.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[20] Корневая декомпозиция\[I] Нестабильность сети.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.[A] Различные числа.cpp" />
+      <item itemvalue="C/C++ File.[B] Лунки.cpp" />
+      <item itemvalue="C/C++ File.[C] Сычи и ACM.cpp" />
+      <item itemvalue="C/C++ File.[D] Варенье.cpp" />
+      <item itemvalue="C/C++ File.[F] Перестановка и запросы.cpp" />
+      <item itemvalue="C/C++ File.[G] Мощные юнги.cpp" />
+      <item itemvalue="C/C++ File.[H] MEX на пути.cpp" />
+      <item itemvalue="C/C++ File.[I] Нестабильность сети.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c92b1e2-8d41-4f6c-b07b-9a27c1bf71c2" name="Changes" comment="" />
+      <created>1740990067123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740990067123</updated>
+      <workItem from="1740990068243" duration="294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25969321-3487-414e-8009-bef7f91c0cd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2tnY9QO1Kgcz2EWsc6cy73eFAC4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[18] Фенвик и спарсы/[O] Обнулить все биты, кроме последних.cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.[O] Обнулить все биты, кроме последних.cpp">
+    <configuration name="[A] Фенвик с подвохом.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[A] Фенвик с подвохом.cpp" CONFIG_NAME="[A] Фенвик с подвохом.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[A] Фенвик с подвохом.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[B] Звезды.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[B] Звезды.cpp" CONFIG_NAME="[B] Звезды.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[B] Звезды.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[C] Разреженные таблицы.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[C] Разреженные таблицы.cpp" CONFIG_NAME="[C] Разреженные таблицы.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[C] Разреженные таблицы.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[D] Прямоугольники.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[D] Прямоугольники.cpp" CONFIG_NAME="[D] Прямоугольники.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[D] Прямоугольники.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[E] Сумма на отрезке.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[E] Сумма на отрезке.cpp" CONFIG_NAME="[E] Сумма на отрезке.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[E] Сумма на отрезке.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[F] Первый элемент справа, больший x.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[F] Первый элемент справа, больший x.cpp" CONFIG_NAME="[F] Первый элемент справа, больший x.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[F] Первый элемент справа, больший x.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[G] Поиск максимума.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[G] Поиск максимума.cpp" CONFIG_NAME="[G] Поиск максимума.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[G] Поиск максимума.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[H] Инвертировать бит.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[H] Инвертировать бит.cpp" CONFIG_NAME="[H] Инвертировать бит.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[H] Инвертировать бит.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[I] Определить значение бита.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[I] Определить значение бита.cpp" CONFIG_NAME="[I] Определить значение бита.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[I] Определить значение бита.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[J] Установить значение бита в 0.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[J] Установить значение бита в 0.cpp" CONFIG_NAME="[J] Установить значение бита в 0.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[J] Установить значение бита в 0.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[K] Установить значение бита в 1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[K] Установить значение бита в 1.cpp" CONFIG_NAME="[K] Установить значение бита в 1.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[K] Установить значение бита в 1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[L] 2 в степени n.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[L] 2 в степени n.cpp" CONFIG_NAME="[L] 2 в степени n.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[L] 2 в степени n.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[M] Инвертировать бит.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[M] Инвертировать бит.cpp" CONFIG_NAME="[M] Инвертировать бит.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[M] Инвертировать бит.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[N] МегаXOR.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[N] МегаXOR.cpp" CONFIG_NAME="[N] МегаXOR.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[N] МегаXOR.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[O] Обнулить все биты, кроме последних.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[18] Фенвик и спарсы" TARGET_NAME="[O] Обнулить все биты, кроме последних.cpp" CONFIG_NAME="[O] Обнулить все биты, кроме последних.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[18] Фенвик и спарсы\[O] Обнулить все биты, кроме последних.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.[A] Фенвик с подвохом.cpp" />
+      <item itemvalue="C/C++ File.[B] Звезды.cpp" />
+      <item itemvalue="C/C++ File.[C] Разреженные таблицы.cpp" />
+      <item itemvalue="C/C++ File.[D] Прямоугольники.cpp" />
+      <item itemvalue="C/C++ File.[E] Сумма на отрезке.cpp" />
+      <item itemvalue="C/C++ File.[F] Первый элемент справа, больший x.cpp" />
+      <item itemvalue="C/C++ File.[G] Поиск максимума.cpp" />
+      <item itemvalue="C/C++ File.[H] Инвертировать бит.cpp" />
+      <item itemvalue="C/C++ File.[I] Определить значение бита.cpp" />
+      <item itemvalue="C/C++ File.[J] Установить значение бита в 0.cpp" />
+      <item itemvalue="C/C++ File.[K] Установить значение бита в 1.cpp" />
+      <item itemvalue="C/C++ File.[L] 2 в степени n.cpp" />
+      <item itemvalue="C/C++ File.[M] Инвертировать бит.cpp" />
+      <item itemvalue="C/C++ File.[N] МегаXOR.cpp" />
+      <item itemvalue="C/C++ File.[O] Обнулить все биты, кроме последних.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25969321-3487-414e-8009-bef7f91c0cd8" name="Changes" comment="" />
+      <created>1740989153303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740989153303</updated>
+      <workItem from="1740989154285" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

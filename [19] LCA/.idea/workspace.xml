@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13d43338-eafe-4b91-90ed-9291851af858" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[A] Максимум на подотрезках с добавлением на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[B] Объединение прямоугольников.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[C] Simple 2D.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[D] Присваивание, прибавление и сумма.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[F] Окна.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[K] Различные числа.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[12] Дерево отрезков 2/[L] XOR на отрезке.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[14] Геометрия 1/[J3] Пусти козла в огород - 3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../[15] Хеширование/[L] Изоморфизм корневых деревьев.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2tnYwrhYlYplpl2vX7XzzvDKFNG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ян.MaibenbenYan/OneDrive/Рабочий стол/Algocode-Bp-2024/[19] LCA/[L] LCA - 2.cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.[L] LCA - 2.cpp">
+    <configuration name="[A] LCA Problem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[A] LCA Problem.cpp" CONFIG_NAME="[A] LCA Problem.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[A] LCA Problem.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[B] Дуумвират.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[B] Дуумвират.cpp" CONFIG_NAME="[B] Дуумвират.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[B] Дуумвират.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[C] Предок.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[C] Предок.cpp" CONFIG_NAME="[C] Предок.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[C] Предок.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[D] Самое дешевое ребро.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[D] Самое дешевое ребро.cpp" CONFIG_NAME="[D] Самое дешевое ребро.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[D] Самое дешевое ребро.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[E] Чип и Дейл в лабиринте.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[E] Чип и Дейл в лабиринте.cpp" CONFIG_NAME="[E] Чип и Дейл в лабиринте.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[E] Чип и Дейл в лабиринте.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[F] Гремучая ива.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[F] Гремучая ива.cpp" CONFIG_NAME="[F] Гремучая ива.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[F] Гремучая ива.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[G] Dynamic LCA.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[G] Dynamic LCA.cpp" CONFIG_NAME="[G] Dynamic LCA.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[G] Dynamic LCA.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[H] Путешествие по барам.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[H] Путешествие по барам.cpp" CONFIG_NAME="[H] Путешествие по барам.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[H] Путешествие по барам.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[I] Зигмунд Фрейд и Карл Юнг.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[I] Зигмунд Фрейд и Карл Юнг.cpp" CONFIG_NAME="[I] Зигмунд Фрейд и Карл Юнг.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[I] Зигмунд Фрейд и Карл Юнг.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[J] LCA Problem Revisited.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[J] LCA Problem Revisited.cpp" CONFIG_NAME="[J] LCA Problem Revisited.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[J] LCA Problem Revisited.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[K] Природа преобразилась.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[K] Природа преобразилась.cpp" CONFIG_NAME="[K] Природа преобразилась.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[K] Природа преобразилась.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[L] LCA - 2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="[19] LCA" TARGET_NAME="[L] LCA - 2.cpp" CONFIG_NAME="[L] LCA - 2.cpp">
+      <option name="sourceFile" value="C:\Users\Ян.MaibenbenYan\OneDrive\Рабочий стол\Algocode-Bp-2024\[19] LCA\[L] LCA - 2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.[A] LCA Problem.cpp" />
+      <item itemvalue="C/C++ File.[B] Дуумвират.cpp" />
+      <item itemvalue="C/C++ File.[C] Предок.cpp" />
+      <item itemvalue="C/C++ File.[D] Самое дешевое ребро.cpp" />
+      <item itemvalue="C/C++ File.[E] Чип и Дейл в лабиринте.cpp" />
+      <item itemvalue="C/C++ File.[F] Гремучая ива.cpp" />
+      <item itemvalue="C/C++ File.[G] Dynamic LCA.cpp" />
+      <item itemvalue="C/C++ File.[H] Путешествие по барам.cpp" />
+      <item itemvalue="C/C++ File.[I] Зигмунд Фрейд и Карл Юнг.cpp" />
+      <item itemvalue="C/C++ File.[J] LCA Problem Revisited.cpp" />
+      <item itemvalue="C/C++ File.[K] Природа преобразилась.cpp" />
+      <item itemvalue="C/C++ File.[L] LCA - 2.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13d43338-eafe-4b91-90ed-9291851af858" name="Changes" comment="" />
+      <created>1740989546888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740989546888</updated>
+      <workItem from="1740989548015" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
